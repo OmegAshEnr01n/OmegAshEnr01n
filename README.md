@@ -24,6 +24,6 @@ I'm currently working on a helm chart for Llama.cpp. Any help with testing would
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmegAshEnr01n&show_icons=true&theme=radical)
 
 <!-- Add more sections or remove sections as needed -->
